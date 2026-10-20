@@ -46,5 +46,5 @@ Projet conçu en équipe avec : Joseph Karib, Simon Paquin
  
 - Son d'ambiance : [Fantasy ambience](https://www.youtube.com/watch?v=_uuM2t9CEAM)
 - Crédits : 
-    - « Titre de l'image », par Vladimir mulder, [Source](lien), [Licence](shutterstock)
-    - « Fantasy Ambiance - Haunted Attic », Ambience Magic , [Source](lien), [Licence](youtube)
+    - « Photo de stock intérieur sombre et effrayant », par Vladimir mulder, [Source](lien), [Licence](shutterstock)
+    - « Fantasy Ambiance - Haunted Attic », Ambience Magic , [Source](lien), [Licence](Youtube)
