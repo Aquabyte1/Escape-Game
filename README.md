@@ -20,7 +20,7 @@ Projet conçu en équipe avec : Joseph Karib, Simon Paquin
 - Les besoins humains : 1 personne vole la lumière de votre citrouille au début de l'escape room
 - Le plan des salles (croquis) : 
  
-![Plan des salles](plan-salles.jpg)
+![Plan des salles](plan-salles.png)
  
 ## Les éléments importants
  
